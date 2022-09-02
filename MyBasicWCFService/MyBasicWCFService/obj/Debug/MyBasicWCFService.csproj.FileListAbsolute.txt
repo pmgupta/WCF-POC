@@ -1,0 +1,7 @@
+C:\Users\shash\source\repos\MyBasicWCFService\MyBasicWCFService\obj\Debug\MyBasicWCFService.csproj.AssemblyReference.cache
+C:\Users\shash\source\repos\MyBasicWCFService\MyBasicWCFService\obj\Debug\MyBasicWCFService.csproj.CoreCompileInputs.cache
+C:\Users\shash\source\repos\MyBasicWCFService\MyBasicWCFService\bin\Debug\MyBasicWCFService.dll.config
+C:\Users\shash\source\repos\MyBasicWCFService\MyBasicWCFService\bin\Debug\MyBasicWCFService.dll
+C:\Users\shash\source\repos\MyBasicWCFService\MyBasicWCFService\bin\Debug\MyBasicWCFService.pdb
+C:\Users\shash\source\repos\MyBasicWCFService\MyBasicWCFService\obj\Debug\MyBasicWCFService.dll
+C:\Users\shash\source\repos\MyBasicWCFService\MyBasicWCFService\obj\Debug\MyBasicWCFService.pdb
